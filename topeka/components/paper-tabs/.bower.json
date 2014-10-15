@@ -1,0 +1,23 @@
+{
+  "name": "paper-tabs",
+  "private": true,
+  "dependencies": {
+    "core-icons": "Polymer/core-icons#master",
+    "core-selector": "Polymer/core-selector#master",
+    "core-toolbar": "Polymer/core-toolbar#master",
+    "core-media-query": "Polymer/core-media-query#master",
+    "font-roboto": "Polymer/font-roboto#master",
+    "paper-icon-button": "Polymer/paper-icon-button#master",
+    "paper-ripple": "Polymer/paper-ripple#master"
+  },
+  "homepage": "https://github.com/Polymer/paper-tabs",
+  "_release": "95a1c1788f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "95a1c1788f1cb8f245d325a8daa785a7a100e85c"
+  },
+  "_source": "git://github.com/Polymer/paper-tabs.git",
+  "_target": "master",
+  "_originalSource": "Polymer/paper-tabs"
+}
